@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/chinese/ner
+END
+TimeNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/chinese/ner/TimeNormalizer.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/chinese/ner/Address.java
+END
+stringPreHandlingModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/chinese/ner/stringPreHandlingModule.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/chinese/ner/package.html
+END
+TimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/chinese/ner/TimeUnit.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/struct
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/struct/package.html
+END
+HammingLoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/struct/HammingLoss.java
+END
+SequenceLoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/struct/SequenceLoss.java
+END
+ZeroOneLoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/struct/ZeroOneLoss.java
+END

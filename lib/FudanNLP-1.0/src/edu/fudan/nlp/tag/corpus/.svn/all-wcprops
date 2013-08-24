@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/nlp/tag/corpus
+END
+PKU.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/corpus/PKU.java
+END
+CreateNounTrainFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/nlp/tag/corpus/CreateNounTrainFile.java
+END
+CharEnc.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/corpus/CharEnc.java
+END
+CTB.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/corpus/CTB.java
+END
+CWS.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/corpus/CWS.java
+END
+PosTagged.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/nlp/tag/corpus/PosTagged.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/corpus/package.html
+END

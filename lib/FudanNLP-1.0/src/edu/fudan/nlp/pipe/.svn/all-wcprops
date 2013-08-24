@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/pipe
+END
+Sequence2FeatureSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/Sequence2FeatureSequence.java
+END
+Normalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/Normalize.java
+END
+StringTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/StringTokenizer.java
+END
+NGram.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/NGram.java
+END
+Target2Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/Target2Label.java
+END
+FeaturePipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/pipe/FeaturePipe.java
+END
+String2SequenceWithTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/String2SequenceWithTag.java
+END
+String2NgramToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/String2NgramToken.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/pipe/package.html
+END
+TF2IDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/TF2IDF.java
+END
+SplitDataAndTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/SplitDataAndTarget.java
+END
+String2Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/String2Sequence.java
+END
+String2SimpleSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/String2SimpleSequence.java
+END
+SeriesPipes.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/SeriesPipes.java
+END
+TFIDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/TFIDF.java
+END
+Pipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/pipe/Pipe.java
+END

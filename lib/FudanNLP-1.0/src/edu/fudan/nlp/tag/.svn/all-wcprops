@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/nlp/tag
+END
+POSTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FudanNLP/!svn/ver/430/trunk/src/edu/fudan/nlp/tag/POSTagger.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/package.html
+END
+AbstractTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/424/trunk/src/edu/fudan/nlp/tag/AbstractTagger.java
+END
+Tagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FudanNLP/!svn/ver/429/trunk/src/edu/fudan/nlp/tag/Tagger.java
+END
+CWSTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FudanNLP/!svn/ver/430/trunk/src/edu/fudan/nlp/tag/CWSTagger.java
+END
+NERTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FudanNLP/!svn/ver/430/trunk/src/edu/fudan/nlp/tag/NERTagger.java
+END
+NOUNTagger.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FudanNLP/!svn/ver/424/trunk/src/edu/fudan/nlp/tag/NOUNTagger.java
+END
+Convert.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/Convert.java
+END

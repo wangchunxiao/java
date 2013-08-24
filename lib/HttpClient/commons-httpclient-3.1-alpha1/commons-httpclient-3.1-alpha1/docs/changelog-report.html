@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title>HttpClient - </title><style type="text/css" media="all">
+          @import url("./style/maven-base.css");
+          
+          @import url("./style/maven-theme.css");@import url("./style/project.css");</style><link rel="stylesheet" href="./style/print.css" type="text/css" media="print"></link><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"></meta></head><body class="composite"><div id="banner"><a href="http://jakarta.apache.org/" id="organizationLogo"><img alt="Apache Software Foundation" src="http://jakarta.apache.org/images/jakarta-logo.gif"></img></a><a href="http://jakarta.apache.org/commons/httpclient/" id="projectLogo"><img alt="HttpClient" src="./images/httpclient_logo.png"></img></a><div class="clear"><hr></hr></div></div><div id="breadcrumbs"><div class="xleft">Last published: 25 June 2006
+                <span class="separator">|</span> Doc for  3.1-alpha1
+                </div><div class="xright"></div><div class="clear"><hr></hr></div></div><div id="leftColumn"><div id="navcolumn"><div id="menuOverview"><h5>Overview</h5><ul><li class="none"><a href="features.html">Features</a></li><li class="none"><a href="news.html">News</a></li><li class="none"><a href="status.html">Status</a></li><li class="none"><a href="downloads.html">Download</a></li><li class="none"><a href="http://wiki.apache.org/jakarta-httpclient/" class="externalLink" title="External Link">Wiki</a></li><li class="expanded"><a href="userguide.html">User Guide</a><ul><li class="none"><a href="authentication.html">Authentication Guide</a></li><li class="none"><a href="charencodings.html">Character Encodings</a></li><li class="none"><a href="cookies.html">Cookies</a></li><li class="none"><a href="exception-handling.html">Exception Handling</a></li><li class="none"><a href="logging.html">Logging Guide</a></li><li class="none"><a href="methods.html">Methods</a></li><li class="none"><a href="performance.html">Optimization Guide</a></li><li class="none"><a href="preference-api.html">Preference Architecture</a></li><li class="none"><a href="redirects.html">Redirects Handling</a></li><li class="none"><a href="http://svn.apache.org/viewcvs.cgi/jakarta/commons/proper/httpclient/trunk/src/examples/" class="externalLink" title="External Link">Sample Code</a></li><li class="none"><a href="sslguide.html">SSL Guide</a></li><li class="none"><a href="threading.html">Threading</a></li><li class="none"><a href="troubleshooting.html">Trouble Shooting</a></li><li class="none"><a href="tutorial.html">Tutorial</a></li></ul></li><li class="none"><a href="developerguide.html">Developer Guide</a></li></ul></div><div id="menuProject_Documentation"><h5>Project Documentation</h5><ul><li class="none"><a href="index.html">About</a></li><li class="collapsed"><a href="project-info.html">Project Info</a></li><li class="expanded"><a href="maven-reports.html">Project Reports</a><ul><li class="none"><strong><a href="changelog-report.html">Change Log</a></strong></li><li class="none"><a href="developer-activity-report.html">Developer Activity</a></li><li class="none"><a href="file-activity-report.html">File Activity</a></li><li class="none"><a href="apidocs/index.html" class="newWindow" title="New Window" target="_blank">JavaDocs</a></li><li class="none"><a href="javadoc.html">JavaDoc Report</a></li><li class="none"><a href="javadoc-warnings-report.html">JavaDoc Warnings Report</a></li><li class="none"><a href="jdepend-report.html">Metrics</a></li><li class="none"><a href="junit-report.html">Unit Tests</a></li><li class="none"><a href="xref/index.html" class="newWindow" title="New Window" target="_blank">Source Xref</a></li><li class="none"><a href="xref-test/index.html" class="newWindow" title="New Window" target="_blank">Test Xref</a></li><li class="none"><a href="license.html">Project License</a></li><li class="none"><a href="task-list.html">Task List</a></li></ul></li><li class="none"><a href="http://maven.apache.org/development-process.html" class="externalLink" title="External Link">Development Process</a></li></ul></div><div id="menuCommons"><h5>Commons</h5><ul><li class="none"><a href="http://jakarta.apache.org/commons/" class="externalLink" title="External Link">Home</a></li><li class="collapsed"><a href="http://jakarta.apache.org/commons/components.html" class="externalLink" title="External Link">Components</a></li><li class="collapsed"><a href="http://jakarta.apache.org/commons/sandbox/index.html" class="externalLink" title="External Link">Sandbox</a></li><li class="collapsed"><a href="http://jakarta.apache.org/commons/dormant/index.html" class="externalLink" title="External Link">Dormant</a></li><li class="none"><a href="http://jakarta.apache.org/commons/volunteering.html" class="externalLink" title="External Link">Volunteering</a></li><li class="none"><a href="http://jakarta.apache.org/commons/patches.html" class="externalLink" title="External Link">Contributing Patches</a></li><li class="none"><a href="http://jakarta.apache.org/commons/building.html" class="externalLink" title="External Link">Building Components</a></li><li class="none"><a href="http://jakarta.apache.org/commons/releases/index.html" class="externalLink" title="External Link">Releasing Components</a></li><li class="none"><a href="http://wiki.apache.org/jakarta-commons/FrontPage" class="externalLink" title="External Link">Wiki</a></li></ul></div><div id="legend"><h5>Legend</h5><ul><li class="externalLink">External Link</li><li class="newWindow">Opens in a new window</li></ul></div><a href="http://maven.apache.org/" title="Built by Maven" id="poweredBy"><img alt="Built by Maven" src="./images/logos/maven-button-1.png"></img></a></div></div><div id="bodyColumn"><div class="contentBox"><div class="section"><a name="Changelog_Report"></a><h2>Changelog Report</h2>
+      <p>Timeframe: 30 days, Total Commits: 30 Total Number of Files Changed: 59</p>
+      <table class="bodyTable">
+        <thead>
+          <tr class="a">
+            <th>Date</th>
+            <th>Author</th>
+            <th>File/Message</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="b">
+            <td>2006-06-25 12:32:26</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/developerguide.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/developerguide.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/developerguide.xml?rev=417001&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 417001</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/navigation.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/navigation.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/navigation.xml?rev=417001&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 417001</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/releases.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/releases.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/releases.xml?rev=417001&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 417001</a>
+              </p>Removed outdated HttpClient release process guide. The up to date version of this document is hosted in Wiki</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-24 15:19:56</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/downloads.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/downloads.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/downloads.xml?rev=416912&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416912</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/news.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/news.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/news.xml?rev=416912&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416912</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/status.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/status.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/status.xml?rev=416912&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416912</a>
+              </p>Updates for the 3.1-alpha1 release</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-24 13:18:22</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/build.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/build.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/build.xml?rev=416903&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416903</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/project.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/project.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/project.xml?rev=416903&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416903</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/params/DefaultHttpParamsFactory.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/params/DefaultHttpParamsFactory.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/params/DefaultHttpParamsFactory.java?rev=416903&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416903</a>
+              </p>Updates for 3.1-alpha1 release</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-24 13:03:32</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=416901&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 416901</a>
+              </p>Preparing 3.1-ALPHA1 release * Added a list of new features * Added a list of API changes since 3.0</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-21 13:05:19</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=415961&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 415961</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java?rev=415961&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 415961</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java?rev=415961&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 415961</a>
+              </p>[HTTPCLIENT-588] relative URIs with internal double-slashes ('//') misparsed Contributed by Gordon Mohr &lt;gojomo at archive.org&gt; Reviewed by Oleg Kalnichevski and Roland Weber</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-21 12:51:00</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=415958&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 415958</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java?rev=415958&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 415958</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java?rev=415958&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 415958</a>
+              </p>[HTTPCLIENT-587] derelativizing of relative URIs with a scheme is incorrect Contributed by Gordon Mohr &lt;gojomo at archive.org&gt; Reviewed by Oleg Kalnichevski and Roland Weber</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-14 15:01:48</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java?rev=414231&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 414231</a>
+              </p>[HTTPCLIENT-552] Add shutdown method to SimpleHttpConnectionManager Contributed by Oleg Kalnichevski Reviewed by Michael Becke and Sebastian Bazley</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-13 10:35:00</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java?rev=413837&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413837</a>
+              </p>[HTTPCLIENT-420] Provide a non-pooling connection manager Changelog: Added an option to the simple connection manager to disable connection persistence Contributed by Oleg Kalnichevski Reviewed by Roland Weber and Michael Becke</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-11 16:42:23</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=413458&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413458</a>
+              </p>Replaced Bugzilla ticket numbers with the corresponding Jira ticket numbers</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-11 16:24:50</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=413451&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413451</a>
+              </p>Reorganized the release notes in preparation for the 3.1-alpha1 release</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-11 16:16:16</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/API_CHANGES_3_0.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/API_CHANGES_3_0.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/API_CHANGES_3_0.txt?rev=413448&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413448</a>
+              </p>Replaced the custom API changes doc with the one generated by JarDiff</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-11 15:49:35</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/project.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/project.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/project.xml?rev=413447&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413447</a>
+              </p>Added Sebastian Bazley to the list of Commons HttpClient contributors</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-11 15:46:49</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/DEPENDENCIES.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/DEPENDENCIES.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/DEPENDENCIES.txt?rev=413446&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413446</a>
+              </p>Included a description where to put the jar files for building and testing Contributed by Sebastian Bazley &lt;sebb at apache.org&gt;</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-11 00:07:56</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/MultiThreadedHttpConnectionManager.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/MultiThreadedHttpConnectionManager.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/MultiThreadedHttpConnectionManager.java?rev=413369&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413369</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/SimpleHttpConnectionManager.java?rev=413369&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413369</a>
+              </p>[HTTPCLIENT-553] JavaDoc getConnection methods in Connection Managers Contributed by Oleg Kalnichevski</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-10 16:35:13</td>
+            <td>rolandw</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/build.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/build.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/build.xml?rev=413311&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413311</a>
+              </p>fix for GUMP problem from HTTPCLIENT-584</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-10 12:36:20</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=413281&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413281</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/HttpMethodDirector.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/HttpMethodDirector.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/HttpMethodDirector.java?rev=413281&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413281</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/InvalidRedirectLocationException.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/InvalidRedirectLocationException.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/InvalidRedirectLocationException.java?rev=413281&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413281</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java?rev=413281&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413281</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestRedirects.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestRedirects.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestRedirects.java?rev=413281&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413281</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java?rev=413281&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413281</a>
+              </p>[HTTPCLIENT-494] Invalid redirects are not corrected Changelog: Invalid redirect location now causes a protocol exception Contributed by Ortwin Glück and Oleg Kalnichevski Reviewed by Roland Weber</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-09 20:20:14</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/downloads.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/xdocs/downloads.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/xdocs/downloads.xml?rev=413119&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413119</a>
+              </p>Synced with the HTTPCLIENT_3_0 branch</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-09 20:06:06</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/project.properties" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/project.properties</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/project.properties?rev=413112&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413112</a>
+              </p>Explicitly set compile source and target levels to 1.2</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-09 19:54:25</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/DEPENDENCIES.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/DEPENDENCIES.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/DEPENDENCIES.txt?rev=413108&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413108</a>
+              </p>[HTTPCLIENT-584] Added a list of HttpClient 3.x dependencies (primarily for Maven shy users)</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-09 16:03:39</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk?rev=413051&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413051</a>
+              </p>[HTTPCLIENT-584] Added lib to the svn:ignore list</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-09 16:01:38</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/lib" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/lib</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/lib?rev=413050&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 413050</a>
+              </p>Removed lib directory and its content</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-06 10:50:08</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/EntityEnclosingMethod.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/EntityEnclosingMethod.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/EntityEnclosingMethod.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/StringRequestEntity.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/StringRequestEntity.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/StringRequestEntity.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestConnectionPersistence.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestConnectionPersistence.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestConnectionPersistence.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestEntityEnclosingMethod.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestEntityEnclosingMethod.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestEntityEnclosingMethod.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestNoncompliant.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestNoncompliant.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestNoncompliant.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestPostMethod.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestPostMethod.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestPostMethod.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestPostParameterEncoding.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestPostParameterEncoding.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestPostParameterEncoding.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestProxy.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestProxy.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestProxy.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestRedirects.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestRedirects.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestRedirects.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/auth/TestBasicAuth.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/auth/TestBasicAuth.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/auth/TestBasicAuth.java?rev=412047&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 412047</a>
+              </p>[HTTPCLIENT-536] misleading lack of javadoc in StringRequestEntity Contributed by Oleg Kalnichevski Reviewed by Roland Weber</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-03 20:52:30</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/build.xml" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/build.xml</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/build.xml?rev=411454&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 411454</a>
+              </p>[HTTPCLIENT-583] Build.xml - add log level definitions Contributed by Sebastian Bazley Reviewed by Roland Weber and Oleg Kalnichevski</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-03 20:47:47</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/release_notes.txt</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/release_notes.txt?rev=411453&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 411453</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/cookie/CookiePolicy.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/cookie/CookiePolicy.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/cookie/CookiePolicy.java?rev=411453&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 411453</a>
+              </p>[HTTPCLIENT-582] Allow access to registered cookie policies Contributed by Sebastian Bazley Reviewed by Roland Weber and Oleg Kalnichevski</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-01 13:57:39</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/examples/PostXML.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/examples/PostXML.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/examples/PostXML.java?rev=410848&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410848</a>
+              </p>Replaced InputStreamRequestEntity with repeatable FileRequestEntity</td>
+          </tr>
+          <tr class="a">
+            <td>2006-06-01 12:36:25</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/examples/PostSOAP.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/examples/PostSOAP.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/examples/PostSOAP.java?rev=410827&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410827</a>
+              </p>Added PostSOAP example Contributed by Paul King &lt;paulk at asert.com.au&gt;</td>
+          </tr>
+          <tr class="b">
+            <td>2006-06-01 12:01:33</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/FileRequestEntity.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/FileRequestEntity.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/FileRequestEntity.java?rev=410820&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410820</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/HttpBenchmark.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/HttpBenchmark.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/HttpBenchmark.java?rev=410820&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410820</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/FileRequestEntity.java (from /jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/FileRequestEntity.java:410366)" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/FileRequestEntity.java (from /jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/FileRequestEntity.java:410366)</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/methods/FileRequestEntity.java (from /jakarta/commons/proper/httpclient/trunk/src/contrib/org/apache/commons/httpclient/contrib/benchmark/FileRequestEntity.java:410366)?rev=410820&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410820</a>
+              </p>Added FileRequestEntity class</td>
+          </tr>
+          <tr class="a">
+            <td>2006-05-30 22:59:24</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/params/DefaultHttpParamsFactory.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/params/DefaultHttpParamsFactory.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/params/DefaultHttpParamsFactory.java?rev=410372&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410372</a>
+              </p>Fix for HTTPCLIENT-533: CookiePolicy.registerCookieSpec(CookiePolicy.DEFAULT, &lt;Some CookieSpec&gt;); does not work as documented Contributed by Ortwin Glück Reviewed by Oleg Kalnichevski</td>
+          </tr>
+          <tr class="b">
+            <td>2006-05-30 22:40:11</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/URI.java?rev=410367&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410367</a>
+              </p>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/test/org/apache/commons/httpclient/TestURI.java?rev=410367&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410367</a>
+              </p>Fix for HTTPCLIENT-578: literal plus (+) character in path components of HttpURL is not preserved Contributed by Jeremy Norris &lt;jnorris10 at gmail.com&gt;</td>
+          </tr>
+          <tr class="a">
+            <td>2006-05-30 22:23:59</td>
+            <td>Oleg Kalnichevski</td>
+            <td>
+              <p>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/HttpMethodDirector.java" class="externalLink" title="External Link">/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/HttpMethodDirector.java</a>
+                <a href="http://svn.apache.org/repos/asf/jakarta/commons/proper/httpclient/trunk/jakarta/commons/proper/httpclient/trunk/src/java/org/apache/commons/httpclient/HttpMethodDirector.java?rev=410364&amp;content-type=text/vnd.viewcvs-markup" class="externalLink" title="External Link">v 410364</a>
+              </p>Removed superfluous log message</td>
+          </tr>
+        </tbody>
+      </table>
+    </div></div></div><div class="clear"><hr></hr></div><div id="footer"><div class="xright">© 2001-2006, Apache Software Foundation</div><div class="clear"><hr></hr></div></div></body></html>

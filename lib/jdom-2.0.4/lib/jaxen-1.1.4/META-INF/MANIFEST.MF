@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.5
+Created-By: 20.6-b01-415 (Apple Inc.)
+Built-By: elharo
+Maven-Version: 1.1
+
+Name: org/jaxen
+Extension-name: org.jaxen
+Specification-Title: Universal Java XPath Engine
+Specification-Vendor: Codehaus
+Specification-Version: 1.1.4
+Implementation-Title: org.jaxen
+Implementation-Vendor: Codehaus
+Implementation-Version: 1.1.4
+

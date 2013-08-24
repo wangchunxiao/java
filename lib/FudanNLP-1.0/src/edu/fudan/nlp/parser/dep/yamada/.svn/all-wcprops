@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/nlp/parser/dep/yamada
+END
+ParserTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/parser/dep/yamada/ParserTrainer.java
+END
+ParserTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/parser/dep/yamada/ParserTester.java
+END
+Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/395/trunk/src/edu/fudan/nlp/parser/dep/yamada/Sentence.java
+END
+ParsingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/parser/dep/yamada/ParsingState.java
+END
+CoNLLReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/nlp/parser/dep/yamada/CoNLLReader.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FudanNLP/!svn/ver/396/trunk/src/edu/fudan/nlp/parser/dep/yamada/Parser.java
+END
+Features.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/parser/dep/yamada/Features.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/parser/dep/yamada/package.html
+END

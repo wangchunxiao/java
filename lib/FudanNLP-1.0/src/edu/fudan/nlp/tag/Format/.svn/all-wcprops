@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/FudanNLP/!svn/ver/394/trunk/src/edu/fudan/nlp/tag/Format
+END
+Seq2ArrayWithTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FudanNLP/!svn/ver/394/trunk/src/edu/fudan/nlp/tag/Format/Seq2ArrayWithTag.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/Format/package.html
+END
+Seq2StrWithNounTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/FudanNLP/!svn/ver/394/trunk/src/edu/fudan/nlp/tag/Format/Seq2StrWithNounTag.java
+END
+BasicFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/429/trunk/src/edu/fudan/nlp/tag/Format/BasicFormatter.java
+END
+SimpleFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/429/trunk/src/edu/fudan/nlp/tag/Format/SimpleFormatter.java
+END
+Seq2StrWithTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/394/trunk/src/edu/fudan/nlp/tag/Format/Seq2StrWithTag.java
+END
+Seq2String.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FudanNLP/!svn/ver/394/trunk/src/edu/fudan/nlp/tag/Format/Seq2String.java
+END
+Conll2String.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/tag/Format/Conll2String.java
+END

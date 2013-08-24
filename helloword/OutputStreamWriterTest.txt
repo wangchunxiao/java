@@ -1,0 +1,2 @@
+这是我的一个测试，测试的是看看Java是将字符流包装在字节流里里面！
+english and chinese are in the same file!

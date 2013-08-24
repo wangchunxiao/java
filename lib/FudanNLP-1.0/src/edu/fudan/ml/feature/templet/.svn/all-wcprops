@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet
+END
+CharRangeTemplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/CharRangeTemplet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/package.html
+END
+HybridTemplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/HybridTemplet.java
+END
+TempletGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/TempletGroup.java
+END
+Templet.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/Templet.java
+END
+BaseTemplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/BaseTemplet.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/Dictionary.java
+END
+DictionaryTemplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/templet/DictionaryTemplet.java
+END

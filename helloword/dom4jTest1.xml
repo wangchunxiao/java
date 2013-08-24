@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student attrName1="attrValue1">
+   <hello attrHello="attrWorld">hello</hello>
+   <world>world</world>
+</student>

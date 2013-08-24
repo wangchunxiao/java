@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/ml/feature/generator
+END
+BaseGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/FudanNLP/!svn/ver/382/trunk/src/edu/fudan/ml/feature/generator/BaseGenerator.java
+END
+Generator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/generator/Generator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/feature/generator/package.html
+END

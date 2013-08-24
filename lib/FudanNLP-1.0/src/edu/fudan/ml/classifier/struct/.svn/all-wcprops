@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/387/trunk/src/edu/fudan/ml/classifier/struct
+END
+OnlineStructTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FudanNLP/!svn/ver/387/trunk/src/edu/fudan/ml/classifier/struct/OnlineStructTrainer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/struct/package.html
+END
+OnlineHybridTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/struct/OnlineHybridTrainer.java
+END
+PATrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/struct/PATrainer.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data
+END
+DocumentReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/DocumentReader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/package.html
+END
+svmFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/svmFileReader.java
+END
+StringReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/StringReader.java
+END
+SequenceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/SequenceReader.java
+END
+Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/Reader.java
+END
+SimpleFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/SimpleFileReader.java
+END
+svmFileReaderforwipo.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/data/svmFileReaderforwipo.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/keyword
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/keyword/package.html
+END
+WordExtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FudanNLP/!svn/ver/424/trunk/src/edu/fudan/nlp/keyword/WordExtract.java
+END
+ToWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/nlp/keyword/ToWord.java
+END

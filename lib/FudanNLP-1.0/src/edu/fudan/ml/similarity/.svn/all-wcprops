@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/similarity
+END
+EditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/similarity/EditDistance.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/similarity/package.html
+END
+ISimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/similarity/ISimilarity.java
+END
+EditDistanceWithSemantic.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/similarity/EditDistanceWithSemantic.java
+END

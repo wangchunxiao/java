@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources/package.html
+END
+CiLin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources/CiLin.java
+END
+WordList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources/WordList.java
+END
+CharSets.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources/CharSets.java
+END
+WordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources/WordCount.java
+END
+WordMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/nlp/resources/WordMap.java
+END

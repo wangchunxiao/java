@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/package.html
+END
+Loss.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/Loss.java
+END
+ZeroOneLoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/loss/ZeroOneLoss.java
+END

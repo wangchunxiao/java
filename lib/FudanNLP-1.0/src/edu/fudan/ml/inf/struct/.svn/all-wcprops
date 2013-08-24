@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/inf/struct
+END
+LinearViterbi.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/inf/struct/LinearViterbi.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/inf/struct/package.html
+END
+Labelwise.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/inf/struct/Labelwise.java
+END
+Viterbi.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/inf/struct/Viterbi.java
+END
+AbstractViterbi.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/inf/struct/AbstractViterbi.java
+END

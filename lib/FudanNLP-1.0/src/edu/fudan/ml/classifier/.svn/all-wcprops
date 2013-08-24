@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/ml/classifier
+END
+ModelAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/ModelAnalysis.java
+END
+Classifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/Classifier.java
+END
+AbstractTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/AbstractTrainer.java
+END
+OnlineTrainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/OnlineTrainer.java
+END
+Linear.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FudanNLP/!svn/ver/421/trunk/src/edu/fudan/ml/classifier/Linear.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/classifier/package.html
+END

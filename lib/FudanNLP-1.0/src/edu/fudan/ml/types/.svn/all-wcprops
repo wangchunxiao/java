@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/FudanNLP/!svn/ver/422/trunk/src/edu/fudan/ml/types
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/Tree.java
+END
+InstanceSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/ml/types/InstanceSet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FudanNLP/!svn/ver/415/trunk/src/edu/fudan/ml/types/package.html
+END
+FeatureAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/FeatureAlphabet.java
+END
+SparseArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/SparseArray.java
+END
+LabelAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/LabelAlphabet.java
+END
+AlphabetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/FudanNLP/!svn/ver/424/trunk/src/edu/fudan/ml/types/AlphabetFactory.java
+END
+Results.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/Results.java
+END
+AbstractAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/AbstractAlphabet.java
+END
+Instance.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/Instance.java
+END
+SparseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/SparseVector.java
+END
+SparseMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/types/SparseMatrix.java
+END

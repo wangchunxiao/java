@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/struct
+END
+LinearViterbiPAUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/struct/LinearViterbiPAUpdate.java
+END
+HybridViterbiPAUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/struct/HybridViterbiPAUpdate.java
+END
+WeightUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/struct/WeightUpdate.java
+END

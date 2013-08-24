@@ -1,0 +1,113 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling C:\Users\Eric\Desktop\gson-2.2.chm
+
+allclasses-frame.html
+allclasses-noframe.html
+com\google\gson\annotations\class-use\Expose.html
+com\google\gson\annotations\class-use\SerializedName.html
+com\google\gson\annotations\class-use\Since.html
+com\google\gson\annotations\class-use\Until.html
+com\google\gson\annotations\Expose.html
+com\google\gson\annotations\package-frame.html
+com\google\gson\annotations\package-summary.html
+com\google\gson\annotations\package-tree.html
+com\google\gson\annotations\package-use.html
+com\google\gson\annotations\SerializedName.html
+com\google\gson\annotations\Since.html
+com\google\gson\annotations\Until.html
+com\google\gson\class-use\ExclusionStrategy.html
+com\google\gson\class-use\FieldAttributes.html
+com\google\gson\class-use\FieldNamingPolicy.html
+com\google\gson\class-use\FieldNamingStrategy.html
+com\google\gson\class-use\Gson.html
+com\google\gson\class-use\GsonBuilder.html
+com\google\gson\class-use\InstanceCreator.html
+com\google\gson\class-use\JsonArray.html
+com\google\gson\class-use\JsonDeserializationContext.html
+com\google\gson\class-use\JsonDeserializer.html
+com\google\gson\class-use\JsonElement.html
+com\google\gson\class-use\JsonIOException.html
+com\google\gson\class-use\JsonNull.html
+com\google\gson\class-use\JsonObject.html
+com\google\gson\class-use\JsonParseException.html
+com\google\gson\class-use\JsonParser.html
+com\google\gson\class-use\JsonPrimitive.html
+com\google\gson\class-use\JsonSerializationContext.html
+com\google\gson\class-use\JsonSerializer.html
+com\google\gson\class-use\JsonStreamParser.html
+com\google\gson\class-use\JsonSyntaxException.html
+com\google\gson\class-use\LongSerializationPolicy.html
+com\google\gson\class-use\TypeAdapter.html
+com\google\gson\class-use\TypeAdapterFactory.html
+com\google\gson\ExclusionStrategy.html
+com\google\gson\FieldAttributes.html
+com\google\gson\FieldNamingPolicy.html
+com\google\gson\FieldNamingStrategy.html
+com\google\gson\Gson.html
+com\google\gson\GsonBuilder.html
+com\google\gson\InstanceCreator.html
+com\google\gson\JsonArray.html
+com\google\gson\JsonDeserializationContext.html
+com\google\gson\JsonDeserializer.html
+com\google\gson\JsonElement.html
+com\google\gson\JsonIOException.html
+com\google\gson\JsonNull.html
+com\google\gson\JsonObject.html
+com\google\gson\JsonParseException.html
+com\google\gson\JsonParser.html
+com\google\gson\JsonPrimitive.html
+com\google\gson\JsonSerializationContext.html
+com\google\gson\JsonSerializer.html
+com\google\gson\JsonStreamParser.html
+com\google\gson\JsonSyntaxException.html
+com\google\gson\LongSerializationPolicy.html
+com\google\gson\package-frame.html
+com\google\gson\package-summary.html
+com\google\gson\package-tree.html
+com\google\gson\package-use.html
+com\google\gson\reflect\class-use\TypeToken.html
+com\google\gson\reflect\package-frame.html
+com\google\gson\reflect\package-summary.html
+com\google\gson\reflect\package-tree.html
+com\google\gson\reflect\package-use.html
+com\google\gson\reflect\TypeToken.html
+com\google\gson\stream\class-use\JsonReader.html
+com\google\gson\stream\class-use\JsonToken.html
+com\google\gson\stream\class-use\JsonWriter.html
+com\google\gson\stream\class-use\MalformedJsonException.html
+com\google\gson\stream\JsonReader.html
+com\google\gson\stream\JsonToken.html
+com\google\gson\stream\JsonWriter.html
+com\google\gson\stream\MalformedJsonException.html
+com\google\gson\stream\package-frame.html
+com\google\gson\stream\package-summary.html
+com\google\gson\stream\package-tree.html
+com\google\gson\stream\package-use.html
+com\google\gson\TypeAdapter.html
+com\google\gson\TypeAdapterFactory.html
+constant-values.html
+HHC3004: Warning: deprecated-list.html : The HTML tag "?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+HHC3004: Warning: deprecated-list.html : The HTML tag "?" is not a valid HTML tag (it does not begin with an alphanumeric character).
+deprecated-list.html
+help-doc.html
+index.html
+index-all.html
+overview-frame.html
+overview-summary.html
+overview-tree.html
+resources\inherit.gif
+serialized-form.html
+stylesheet.css
+TOC-Created-By-Easy-CHM.HHC
+Index-Created-By-Easy-CHM.HHK
+
+Compile time: 0 minutes, 6 seconds
+188	Topics
+4,481	Local links
+1,199	Internet links
+0	Graphics
+
+
+Created C:\Users\Eric\Desktop\gson-2.2.chm, 225,274 bytes
+Compression decreased file by 1,250,671 bytes.

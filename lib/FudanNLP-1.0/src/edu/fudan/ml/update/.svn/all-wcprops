@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/package.html
+END
+AbstractPAUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/AbstractPAUpdate.java
+END
+Update.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/Update.java
+END
+LinearMaxPAUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/FudanNLP/!svn/ver/365/trunk/src/edu/fudan/ml/update/LinearMaxPAUpdate.java
+END
