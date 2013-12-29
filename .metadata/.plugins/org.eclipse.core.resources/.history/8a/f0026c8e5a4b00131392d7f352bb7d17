@@ -1,0 +1,8 @@
+package com.jvm;
+
+public class HeapOutofMemory
+{
+	static class OOMObject{
+		
+	}
+}

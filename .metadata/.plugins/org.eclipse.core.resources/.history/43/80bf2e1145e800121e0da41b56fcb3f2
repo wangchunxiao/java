@@ -1,0 +1,161 @@
+package LDA.MAIN;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.hamcrest.core.IsSame;
+
+import edu.fudan.nlp.tag.CWSTagger;
+/*这里使用了静态内部类，静态内部类就是可以说是把一个top-level类放到了另一个类中，所以在outclass外面按照之前的类使用
+ * 1.注意静态内部类nested class内部不能访问outclass的非static的method和field
+ * 2.outclass里面的 method可以申请netsted class对象(这也是我们为什么使用内部类的原因，只出现一次)，这个方法可以是
+ * static的也可以是非static的
+ * 3.从谁访问的这个要分清，才能使用好内部类
+ * */
+
+public class Documents
+{
+	public ArrayList<Document> docs;
+	public Map<String, Integer> termToIndexMap;
+	public ArrayList<String> indexToTermMap;
+	public Map<String, Integer> termCountMap;
+	
+	public Documents()
+	{
+		this.docs = new ArrayList<Document>();  
+		this.termToIndexMap = new HashMap<String, Integer>();  
+		this.indexToTermMap = new ArrayList<String>();  
+		this.termCountMap = new HashMap<String, Integer>();
+	}
+	
+	public void readDocs(String docsPath) throws Exception
+	{
+		File floder=new File(docsPath);
+		for(File file:floder.listFiles())
+		{
+			/*****************test list file这个模块用**********************/
+//			System.out.println(file);
+//			Long docLength=file.length();
+//			byte[] buffer=new byte[docLength.intValue()];
+//			FileInputStream fis=new FileInputStream(file);
+//			fis.read(buffer);
+//			System.out.println(new String(buffer));
+//			fis.close();
+//			System.out.println("-------------------------------------------------------------------------------");
+			/*****************test list file这个模块用***********************/
+			
+			/*****************test fudan nlp ********************************************/
+//			CWSTagger tag = new CWSTagger("./models/seg.c110722.gz");
+//			String str = "加字是我给你设计一张含你所需要的字的图纸，字是需要你自己绣上去的哦，十字绣是一种自己动手的艺术，抱枕上需要加上新人的名字或结婚日期等有意义的文字吗？10个字以内只需要10元，你是王秋雨吗？";
+//			String s = tag.tag(new String(buffer));
+//			System.out.println(s);
+//			System.out.println("-------------------------------------------------------------------------------");
+			/*****************test fudan nlp *********************************************/
+			
+			Document doc=new Document(file,termToIndexMap,indexToTermMap,termCountMap);
+			docs.add(doc);
+		}
+	}
+	
+	
+	
+	public static class Document
+	{
+		public File docFile;
+		public int[] docWords;
+
+		public Document(File docFile, Map<String, Integer> termToIndexMap,
+				ArrayList<String> indexToTermMap,
+				Map<String, Integer> termCountMap) throws Exception
+		{
+			//read the file content 
+			this.docFile=docFile;
+			Long docLength=docFile.length();
+			byte[] buffer=new byte[docLength.intValue()];
+			FileInputStream fis=new FileInputStream(docFile);
+			fis.read(buffer);			
+			fis.close();
+			
+			//use fudan-nlp chinese segmentation
+			CWSTagger tag = new CWSTagger("./models/seg.c110722.gz");
+			String str = new String(buffer);
+			String s = tag.tag(str);
+			
+			//process the content of segmentation result
+			String[] array=s.split(" ");
+			ArrayList<String> words=new ArrayList<String>();
+			for(String token:array)
+			{
+				if(!isStopword(token))
+				{
+					words.add(token);
+				}
+			}
+//			for(String token:words)
+//				System.out.println(token);
+			
+			//map the word to index and count the word number
+			docWords=new int[words.size()];
+			for(int i=0;i<words.size();i++)
+			{
+				String word=words.get(i);
+				if(!termToIndexMap.containsKey(word))
+				{
+					int newIndex=termToIndexMap.size();
+					termToIndexMap.put(word,newIndex);
+					indexToTermMap.add(word);
+					termCountMap.put(word,new Integer(1));
+					docWords[i]=newIndex;
+				}
+				else
+				{
+					termCountMap.put(word,termCountMap.get(word)+1);
+					docWords[i]=termToIndexMap.get(word);
+				}
+			}
+//			for(int i=0;i<words.size();i++)
+//			{
+//				System.out.print(words.get(i)+"      "+docWords[i]+"\n");
+//			}
+		
+		}	
+		
+		public boolean isStopword(String word) throws IOException
+		{
+			Stopwords stopwords=new Stopwords("./src/LDA/MAIN","ChnStopList.txt");
+			ArrayList<String> stopwordsList=stopwords.getStopwords();
+			if(stopwordsList.contains(word))
+				return true;
+			return false;
+		}
+	}
+	
+	
+	public void serializable4Inference(String pathName,String fileName) throws FileNotFoundException, IOException
+	{
+		File file=new File(pathName,fileName);
+		ObjectOutputStream oos=new ObjectOutputStream(new FileOutputStream(file));
+		oos.writeObject(indexToTermMap);
+		oos.close();
+	}
+	
+	
+	
+	
+	public static void main(String[] args) throws Exception
+	{
+		Documents documents=new Documents();
+		documents.readDocs("./src/LDA/MAIN/corpus1");
+		
+		/*看结果中有空字符串做个测试*/
+		System.out.println(documents.indexToTermMap.contains(""));
+		System.out.println(documents.indexToTermMap.contains(" "));
+	}
+}

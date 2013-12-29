@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;weibo4j-oauth2&apos;&#x0D;&#x0A;- Original project: &apos;weibo4j-oauth2&apos;&#x0D;&#x0A;- Original element: &apos;weibo4j-oauth2/examples.weibo4j&apos;" description="Delete element" element1="/&lt;examples.weibo4j" element2="/&lt;examples" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1344606393722" subPackages="false" version="1.0"/>
+</session>

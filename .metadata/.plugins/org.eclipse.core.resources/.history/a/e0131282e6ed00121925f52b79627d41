@@ -1,0 +1,96 @@
+package LDA.MAIN;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+
+/*这里使用了enum  注意两个static方法   values()  valuesOf(String)
+ * 1.注意enum有两个static方法我没有在j2se的官方文档找到说明,就是我上面说的那两个方法
+ * */
+public class LdaGibbsSampling
+{
+	public static class modelparameters
+	{
+		float alpha = 0.5f; // usual value is 50 / K
+		float beta = 0.1f;// usual value is 0.1
+		int topicNum = 15;
+		int iteration = 80;
+		int saveStep = 5;
+		int beginSaveIters = 50;
+	}
+
+	public static void getParametersFromFile(modelparameters ldaparameters,
+			String parameterFile) throws IOException
+	{
+		BufferedReader br = new BufferedReader(new FileReader(new File(
+				parameterFile)));
+		String readLine = new String();
+		while (null != (readLine = br.readLine()))
+		{
+			String[] tokens = readLine.split("=");
+			switch (parameters.valueOf(tokens[0]))
+			{
+			case alpha:
+				ldaparameters.alpha = Float.valueOf(tokens[1]);
+				break;
+			case beta:
+				ldaparameters.beta = Float.valueOf(tokens[1]);
+				break;
+			case topicNum:
+				ldaparameters.topicNum = Integer.valueOf(tokens[1]);
+				break;
+			case iteration:
+				ldaparameters.iteration = Integer.valueOf(tokens[1]);
+				break;
+			case saveStep:
+				ldaparameters.saveStep = Integer.valueOf(tokens[1]);
+				break;
+			case beginSaveIters:
+				ldaparameters.beginSaveIters = Integer.valueOf(tokens[1]);
+				break;
+			}
+		}
+		br.close();
+	}
+
+	public enum parameters {
+		alpha, beta, topicNum, iteration, saveStep, beginSaveIters;
+	}
+
+	public void testLdaGibbsSamplingClass() throws IOException
+	{
+		LdaGibbsSampling.modelparameters ldaparameters = new LdaGibbsSampling.modelparameters();
+		System.out.println(ldaparameters.topicNum);
+		getParametersFromFile(ldaparameters, "./src/LDA/MAIN/parameter.conf");
+		System.out.println(ldaparameters.topicNum);
+	}
+
+	public static void main(String[] args) throws Exception
+	{
+		// test this class
+		// testLdaGibbsSamplingClass();
+
+		// lda main code
+		LdaGibbsSampling.modelparameters para = new LdaGibbsSampling.modelparameters();
+		LdaGibbsSampling.getParametersFromFile(para,
+				"./src/LDA/MAIN/parameter.conf");
+		LdaModel ldaModel = new LdaModel(para);
+		Documents documents = new Documents();
+		documents.readDocs("./src/LDA/MAIN/corpus1");
+		documents.serializable4Inference("./src/LDA/MAIN/serializable/","indexToTermMap.ser");
+		
+		System.out.println("1 Initialize the model ...");
+		ldaModel.initializeModel(documents);
+		System.out.println("2 Learning and Saving the model ...");
+		ldaModel.inferenceModel(documents,"./src/LDA/MAIN/result/");
+		System.out.println("3 Output the final model ...");
+		ldaModel.saveIteratedModel(para.iteration,documents,"./src/LDA/MAIN/result/");
+		ldaModel.savePhi(para.iteration,documents,"./src/LDA/MAIN/result/");
+		ldaModel.saveTheta(para.iteration,documents,"./src/LDA/MAIN/result/");
+		ldaModel.serializablePhi("./src/LDA/MAIN/serializable/","phi.ser");
+		System.out.println("Done!");
+
+	}
+
+}

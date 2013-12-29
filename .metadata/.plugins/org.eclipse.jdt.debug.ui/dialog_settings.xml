@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="144" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0"/>
+	<item value="1" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn"/>
+	<item value="130" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1"/>
+	<item value="96" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2"/>
+	<section name="org.eclipse.jdt.internal.debug.ui.ExpressionInformationControlCreator$ExpressionInformationControl">
+		<item value="502" key="SashWeightDetails"/>
+		<item value="497" key="SashWeightTree"/>
+		<item value="213" key="HEIGHT"/>
+		<item value="614" key="WIDTH"/>
+	</section>
+	<section name="conditionHistory">
+		<item value="3" key="conditionHistoryEntryCount"/>
+		<item value="path[5][5]" key="conditionHistoryEntry_0"/>
+		<item value="path[sentenceLength][sentenceLength]" key="conditionHistoryEntry_1"/>
+		<item value="v=5" key="conditionHistoryEntry_2"/>
+	</section>
+</section>

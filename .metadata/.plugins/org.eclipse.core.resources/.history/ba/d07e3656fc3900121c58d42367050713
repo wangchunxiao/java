@@ -1,0 +1,47 @@
+package com.hello;
+
+import java.util.HashSet;
+
+public class HashSetTest
+{
+	public static void main(String[] args)
+	{
+		HashSet set=new HashSet();
+	}
+}
+
+class People
+{
+	
+	String name;
+	@Override
+	public String toString()
+	{
+		// TODO 自动生成的方法存根
+		return super.toString();
+	}
+	People(String temp)
+	{
+		name=temp;
+	}
+	@Override
+	public int hashCode()
+	{
+		// TODO 自动生成的方法存根
+		return name.hashCode();
+		//return super.hashCode();
+	}
+	@Override
+	public boolean equals(Object obj)
+	{
+		if(this==obj)
+			return true;
+		else if(null!=obj && obj instanceof People)
+		{
+			People p=(People)obj;
+			return name.equals(p.name);
+		}
+		else
+			return false;
+	}
+}

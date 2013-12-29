@@ -1,0 +1,8 @@
+/*这是源角色,我要将它转化成为
+ * */
+package com.adapter;
+
+public class Adaptee
+{
+
+}

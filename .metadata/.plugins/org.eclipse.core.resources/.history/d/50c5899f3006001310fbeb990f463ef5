@@ -1,0 +1,14 @@
+/*适配器模式 Adapter Pattern
+ * 适配器模式
+ * */
+package com.adapter;
+
+public class Clinet
+{
+	public static void main(String[] args)
+	{
+		
+		Target target2 =new Adapter();
+		target2.request();
+	}
+}

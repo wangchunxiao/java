@@ -1,0 +1,14 @@
+/*ÊÊÅäÆ÷Ä£Ê½ Adapter Pattern
+ * 
+ * */
+package com.adapter;
+
+public class Clinet
+{
+	public static void main(String[] args)
+	{
+		
+		Target target2 =new Adapter();
+		target2.request();
+	}
+}

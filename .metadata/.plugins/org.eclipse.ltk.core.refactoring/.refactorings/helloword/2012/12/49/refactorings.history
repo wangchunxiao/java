@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“helloword/src/com/proxy/dynamicproxy/ProxySubject.java”重命名为“DynamicSubject.java”" description="重命名资源“ProxySubject.java”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/proxy/dynamicproxy/ProxySubject.java" name="DynamicSubject.java" stamp="1354945466410" updateReferences="true"/>
+</session>

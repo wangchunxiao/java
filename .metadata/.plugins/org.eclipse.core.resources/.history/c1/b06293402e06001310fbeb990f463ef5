@@ -1,0 +1,9 @@
+/*
+ * 这是Adapter Pattern的目标接口,即使
+ * */
+package com.adapter;
+
+public interface Target
+{
+
+}

@@ -1,0 +1,97 @@
+/*1.我在new File的时候path这个参数的最后可以加'/',也可以不加,效果都是一样的
+ * */
+package LDA.MAIN.INERENCE;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class LdaInference
+{
+	public static class InferenceParameters
+	{
+		float alpha = 0.5f; // usual value is 50 / K
+		float beta = 0.1f;// usual value is 0.1
+		int topicNum = 15;
+		int iteration = 80;
+		int saveStep = 5;
+		int beginSaveIters = 50;
+	}
+    
+	/**
+	 * get the parameters from file,the LdaInference process is the same as gibbsSampling
+	 * 
+	 * @param filePath
+	 * @param fileName
+	 * @param infereceParameters
+	 * @throws IOException
+	 */
+	public static void getParametesFromFile(String filePath, String fileName,
+			InferenceParameters infereceParameters) throws IOException
+	{
+		File file = new File(filePath, fileName);
+
+		BufferedReader br = new BufferedReader(new FileReader(file));
+		String readLine = null;
+		while (null != (readLine = br.readLine()))
+		{
+			String[] tokens = readLine.split("=");
+
+			switch (parameters.valueOf(tokens[0]))
+			{
+			case alpha:
+				infereceParameters.alpha = Float.valueOf(tokens[1]);
+				break;
+			case beta:
+				infereceParameters.beta = Float.valueOf(tokens[1]);
+				break;
+			case topicNum:
+				infereceParameters.topicNum = Integer.valueOf(tokens[1]);
+				break;
+			case iteration:
+				infereceParameters.iteration = Integer.valueOf(tokens[1]);
+				break;
+			case saveStep:
+				infereceParameters.saveStep = Integer.valueOf(tokens[1]);
+				break;
+			case beginSaveIters:
+				infereceParameters.beginSaveIters = Integer.valueOf(tokens[1]);
+				break;
+			}
+		}
+
+		br.close();
+	}
+
+	public enum parameters {
+		alpha, beta, topicNum, iteration, saveStep, beginSaveIters;
+	}
+	
+	public static void testGetParametesFromFile(String filePath,String fileName) throws IOException
+	{
+		LdaInference.InferenceParameters inferenceParameters=new LdaInference.InferenceParameters();
+		System.out.println(inferenceParameters.topicNum);
+		LdaInference.getParametesFromFile(filePath,fileName,inferenceParameters);
+		System.out.println(inferenceParameters.topicNum);
+	}
+	
+	public static void main(String[] args) throws Exception
+	{
+//		LdaInference.testGetParametesFromFile("./src/LDA/MAIN/INERENCE/","inferencePara.conf");
+		
+		LdaInference.InferenceParameters inferencePare=new LdaInference.InferenceParameters();
+		LdaInference.getParametesFromFile("./src/LDA/MAIN/INERENCE/","inferencePara.conf",inferencePare);
+		
+		Documents documents=new Documents("./src/LDA/MAIN/serializable/","indexToTermMap.ser");
+		documents.readDocs("./src/LDA/MAIN/testSet");
+		
+		LdaModel2 ldaModel2=new LdaModel2(inferencePare,"./src/LDA/MAIN/serializable/","phi.ser");
+		System.out.println("inference process:1 Initialize the model ...");
+		ldaModel2.initializeModel(documents);
+		System.out.println("inference process:2 sampling the model ...");
+		ldaModel2.inferenceModel(documents,"./src/LDA/MAIN/testResult");
+		
+	}
+	
+}

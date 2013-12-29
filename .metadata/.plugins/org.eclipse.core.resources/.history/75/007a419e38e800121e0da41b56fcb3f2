@@ -1,0 +1,100 @@
+package LDA.MAIN;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.ArrayList;
+
+enum OS {
+	LINUX, WINDOWS
+}
+
+public class Stopwords
+{
+	public String docPath;
+	public String filename;
+	public File file;
+	public ArrayList<String> list;
+	public OS os = OS.WINDOWS;
+
+	public Stopwords(String docPath, String filename)
+	{
+		this.docPath = docPath;
+		this.filename = filename;
+		this.file = new File(docPath, filename);
+	}
+
+	public Stopwords(String docPath, String filename, OS os)
+	{
+		this.docPath = docPath;
+		this.filename = filename;
+		this.file = new File(docPath, filename);
+		this.os = os;
+	}
+
+	private void readFileToList() throws IOException
+	{
+		// read the file content in one time
+		Long fileLength = this.file.length();
+		byte[] allContent = new byte[fileLength.intValue()];
+		InputStream in = new FileInputStream(this.file);
+		in.read(allContent);
+
+		list = new ArrayList<String>();
+
+		switch (this.os)
+		{
+		case WINDOWS:
+			String content=new String(allContent,"utf-8");
+			String[] array=content.split("\r\n");
+			for(String word:array)
+				addStopwordIntoList(word,list);
+			//System.out.println(content);
+			list.add("\n");
+			break;
+		case LINUX:
+			String content1=new String(allContent,"utf-8");
+			String[] array1=content1.split("\n");
+			for(String word1:array1)
+				addStopwordIntoList(word1,list);
+			break;
+		}
+		in.close();
+	}
+	
+	public ArrayList<String> getStopwords() throws IOException
+	{
+		this.readFileToList();
+		return this.list;
+	}
+	private void addStopwordIntoList(String word,ArrayList<String>list)
+	{
+		word=word.trim();
+		list.add(word);
+	}
+	
+	private void testList()
+	{
+		for(String word:this.list)
+			System.out.println(word);
+	}
+	
+	private boolean contain(String a)
+	{
+		if(this.list.contains(a))
+			return true;
+		else
+			return false;
+	}
+	
+	//test this class
+	public static void main(String[] args) throws IOException
+	{
+		Stopwords stopwords=new Stopwords("./src/LDA/MAIN","ChnStopList.txt");
+		stopwords.readFileToList();
+		
+		stopwords.testList();
+	}
+
+}

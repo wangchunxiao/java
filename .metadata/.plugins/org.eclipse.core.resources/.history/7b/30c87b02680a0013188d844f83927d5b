@@ -1,0 +1,54 @@
+/*
+ * 1.jdom获取所有的子元素是getchildren(),而DOM4j是用elements()
+ * 2.jdom读取XML使用SAX方法叫做SAXBublider,dom4j叫做SAXReader,然后都是返回根节点Document
+ * 3.jdom读取XML使用DOM方法也叫所DOMBulider,dom4j叫做DOMReader,它们都是传入原来JAXP方法的Document并 
+ *   转化为jdom或者dom4j的Document
+ * 4.注意两个Document时候，一个要加入包名已让编译器知道是哪个Document
+ * */
+
+package com.xml.jdom;
+
+
+
+public class JDomTest2
+{
+	public static void main(String[] args) throws JDOMException, IOException, ParserConfigurationException, SAXException
+	{
+		SAXBuilder bulider=new SAXBuilder();
+		Document document=bulider.build(new File("jdomTest1.xml"));
+		
+		Element root=document.getRootElement();
+		System.out.print(root.getName() + root.getText());
+
+		
+		List list=root.getChild("root下第一层").getAttributes();
+		for(int i=0;i<list.size();i++)
+		{
+			Attribute attr=(Attribute)list.get(i);
+			System.out.println(attr.getName()+"="+attr.getValue());
+		}
+		
+		Element element=root.getChild("root下第一层");
+		if(null!=element)
+		{
+			element.removeChild("链式test");
+		}
+		
+		XMLOutputter out=new XMLOutputter();
+		out.output(document,new FileOutputStream("jdomTest2.xml"));
+		System.out.println("-------------------------------------------------");
+		
+		
+		DocumentBuilderFactory dbf=DocumentBuilderFactory.newInstance();
+		DocumentBuilder db=dbf.newDocumentBuilder();
+		org.w3c.dom.Document documentJAXP=db.parse(new File("jdomTest1.xml"));
+		
+		
+		DOMBuilder builder2=new DOMBuilder();
+		Document documentJDOM=builder2.build(documentJAXP);
+		System.out.println(documentJDOM.getRootElement().getName());
+		
+		
+		
+	}
+}

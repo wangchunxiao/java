@@ -1,0 +1,2011 @@
+!SESSION 2013-07-12 09:08:10.405 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+This is a continuation of log file F:\java工程\.metadata\.bak_0.log
+Created Time: 2013-07-12 09:10:34.278
+
+!ENTRY org.eclipse.ui 2 2 2013-07-12 09:10:34.279
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-12 09:10:35.701 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data F:\java工程
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-12 09:10:43.571
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-12 11:08:46.068
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-12 16:38:44.611 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-12 16:39:03.472
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-12 20:40:28.163
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-12 23:30:40.637 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-12 23:31:26.049
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-13 00:07:11.067
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-14 22:52:58.277 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-14 22:53:18.426
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-14 23:56:17.641
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-15 21:56:52.840 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-15 21:57:49.615
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-15 23:12:14.829
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-16 11:27:02.821 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-16 11:27:39.792
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-16 23:23:44.228
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-07-18 16:27:45.710 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-18 16:30:02.939
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-18 17:57:46.360
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.debug.ui 4 0 2013-07-18 18:24:33.708
+!MESSAGE Launch shortcut 'org.python.pydev.debug.ui.launchShortcut.ironpython' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:29)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:287)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.isApplicable(ContextualLaunchAction.java:295)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.fillMenu(ContextualLaunchAction.java:218)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction$1.menuShown(ContextualLaunchAction.java:137)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:774)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1268)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1248)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1237)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1210)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1022)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:916)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:585)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:540)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2013-07-18 18:24:33.712
+!MESSAGE No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+
+!ENTRY org.eclipse.debug.ui 4 0 2013-07-18 18:24:33.719
+!MESSAGE Launch shortcut 'org.python.pydev.debug.ui.launchShortcut.ironpython.unittest' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:29)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:287)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.isApplicable(ContextualLaunchAction.java:295)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.fillMenu(ContextualLaunchAction.java:218)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction$1.menuShown(ContextualLaunchAction.java:137)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:774)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1268)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1248)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1237)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1210)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1022)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:916)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:585)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:540)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2013-07-18 18:24:33.721
+!MESSAGE No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+
+!ENTRY org.eclipse.debug.ui 4 0 2013-07-18 18:24:33.730
+!MESSAGE Launch shortcut 'org.python.pydev.debug.ui.launchShortcut.jython' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:29)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:287)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.isApplicable(ContextualLaunchAction.java:295)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.fillMenu(ContextualLaunchAction.java:218)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction$1.menuShown(ContextualLaunchAction.java:137)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:774)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1268)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1248)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1237)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1210)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1022)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:916)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:585)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:540)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2013-07-18 18:24:33.732
+!MESSAGE No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+
+!ENTRY org.eclipse.debug.ui 4 0 2013-07-18 18:24:33.738
+!MESSAGE Launch shortcut 'org.python.pydev.debug.ui.launchShortcut.jython.unittest' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:29)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:287)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.isApplicable(ContextualLaunchAction.java:295)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.fillMenu(ContextualLaunchAction.java:218)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction$1.menuShown(ContextualLaunchAction.java:137)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:774)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1268)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1248)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1237)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1210)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1022)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:916)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:585)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:540)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2013-07-18 18:24:33.740
+!MESSAGE No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+
+!ENTRY org.eclipse.debug.ui 4 0 2013-07-18 18:24:33.747
+!MESSAGE Launch shortcut 'org.python.pydev.debug.ui.launchShortcut.python' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:29)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:287)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.isApplicable(ContextualLaunchAction.java:295)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.fillMenu(ContextualLaunchAction.java:218)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction$1.menuShown(ContextualLaunchAction.java:137)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:774)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1268)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1248)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1237)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1210)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1022)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:916)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:585)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:540)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2013-07-18 18:24:33.749
+!MESSAGE No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+
+!ENTRY org.eclipse.debug.ui 4 0 2013-07-18 18:24:33.756
+!MESSAGE Launch shortcut 'org.python.pydev.debug.ui.launchShortcut.python.unittest' enablement expression caused exception. Shortcut was removed.
+!STACK 1
+org.eclipse.core.runtime.CoreException: No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+	at org.eclipse.core.internal.expressions.TypeExtensionManager.getProperty(TypeExtensionManager.java:123)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:96)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:68)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:21)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.AndExpression.evaluate(AndExpression.java:29)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.IterateExpression.evaluate(IterateExpression.java:150)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:72)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:53)
+	at org.eclipse.core.internal.expressions.EnablementExpression.evaluate(EnablementExpression.java:53)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.evalEnablementExpression(LaunchShortcutExtension.java:287)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.isApplicable(ContextualLaunchAction.java:295)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction.fillMenu(ContextualLaunchAction.java:218)
+	at org.eclipse.debug.ui.actions.ContextualLaunchAction$1.menuShown(ContextualLaunchAction.java:137)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:774)
+	at org.eclipse.jface.action.ActionContributionItem.copyMenu(ActionContributionItem.java:1268)
+	at org.eclipse.jface.action.ActionContributionItem.handleShowProxy(ActionContributionItem.java:1248)
+	at org.eclipse.jface.action.ActionContributionItem.access$4(ActionContributionItem.java:1237)
+	at org.eclipse.jface.action.ActionContributionItem$8.handleEvent(ActionContributionItem.java:1210)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1053)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1077)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1058)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4881)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4557)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:341)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2069)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4976)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4210)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1022)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:916)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:86)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:585)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:540)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+!SUBENTRY 1 org.eclipse.core.expressions 4 201 2013-07-18 18:24:33.757
+!MESSAGE No property tester contributes a property org.python.pydev.debug.ui.python_type to type class org.eclipse.jdt.internal.core.CompilationUnit
+!SESSION 2013-07-19 11:22:32.877 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-07-19 11:22:55.071
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-07-19 11:38:18.657
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-01 09:14:24.415 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-01 09:16:38.203
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-01 09:28:41.665
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-01 15:32:32.668 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-01 15:32:44.786
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-01 15:48:27.274
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-02 10:42:00.768 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-02 10:42:30.846
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-02 10:42:39.386
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-06 13:39:21.053 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-06 13:40:06.609
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-06 22:09:43.643
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-10 00:09:02.079 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-10 00:09:54.307
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-10 00:22:03.568
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-13 11:27:52.437 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-13 11:28:47.616
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-13 16:14:50.210
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-16 10:56:51.621 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-16 10:57:32.444
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-16 11:20:50.628
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-16 11:22:30.753 -----------------------------------------------
+eclipse.buildId=I20120608-1400
+java.version=1.7.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.egit.ui 2 0 2013-08-16 11:22:58.349
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Eric'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-16 12:40:06.977
+!MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.xml.ui, propertyPage: org.eclipse.wst.xml.ui.propertyPage.project.validation)
+!SESSION 2013-08-21 21:38:21.742 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 567 2013-08-21 21:38:23.511
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-08-21 21:38:23.511
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.markers'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.eclipse.core.internal.resources.MarkerReader.readVersionNumber(MarkerReader.java:54)
+	at org.eclipse.core.internal.resources.MarkerReader.read(MarkerReader.java:48)
+	at org.eclipse.core.internal.resources.MarkerManager.restoreFromSave(MarkerManager.java:541)
+	at org.eclipse.core.internal.resources.MarkerManager.restore(MarkerManager.java:526)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMarkers(SaveManager.java:810)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:693)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1528)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2502)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2251)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:439)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.startActivator(BundleContextImpl.java:702)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.start(BundleContextImpl.java:683)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:381)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:300)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:440)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:125)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-08-21 21:38:23.540
+!MESSAGE Could not read metadata for '.org.eclipse.jdt.core.external.folders'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The project description file (.project) for '.org.eclipse.jdt.core.external.folders' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:851)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:874)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:854)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:703)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1528)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2502)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2251)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:439)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$1.run(BundleContextImpl.java:711)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.startActivator(BundleContextImpl.java:702)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.start(BundleContextImpl.java:683)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.startWorker(BundleHost.java:381)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:300)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:440)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:125)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2013-08-21 21:38:23.541
+!MESSAGE The project description file (.project) for '.org.eclipse.jdt.core.external.folders' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY org.eclipse.ui 2 2 2013-08-21 21:38:27.477
+!MESSAGE Perspective MyEclipse Java Enterprise has been made into a local copy
+
+!ENTRY org.eclipse.ui 4 0 2013-08-21 21:38:27.864
+!MESSAGE Problems occurred restoring workbench.
+!SUBENTRY 1 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 1 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.ui 4 0 2013-08-21 21:38:27.864
+!MESSAGE Unable to restore perspective: Workspace - MyEclipse Java Enterprise.
+!SUBENTRY 2 org.eclipse.ui 0 0 2013-08-21 21:38:27.864
+!MESSAGE Problems occurred restoring perspective.
+!SUBENTRY 3 org.eclipse.ui 0 0 2013-08-21 21:38:27.864
+!MESSAGE 
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.864
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 4 2013-08-21 21:38:27.864
+!MESSAGE Could not create view: uky.article.imageviewer.views.ImageView
+!STACK 1
+org.eclipse.ui.PartInitException: Could not create view: uky.article.imageviewer.views.ImageView
+	at org.eclipse.ui.internal.ViewFactory.createView(ViewFactory.java:158)
+	at org.eclipse.ui.internal.Perspective.createReferences(Perspective.java:1249)
+	at org.eclipse.ui.internal.Perspective.restoreState(Perspective.java:1219)
+	at org.eclipse.ui.internal.WorkbenchPage$17.runWithException(WorkbenchPage.java:3297)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1600)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2609)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SUBENTRY 3 org.eclipse.ui 4 0 2013-08-21 21:38:27.865
+!MESSAGE Could not create view: uky.article.imageviewer.views.ImageView
+!SUBENTRY 2 org.eclipse.ui 4 4 2013-08-21 21:38:27.865
+!MESSAGE Could not create view: org.eclipse.wst.common.snippets.internal.ui.SnippetsView
+!STACK 1
+org.eclipse.ui.PartInitException: Could not create view: org.eclipse.wst.common.snippets.internal.ui.SnippetsView
+	at org.eclipse.ui.internal.ViewFactory.createView(ViewFactory.java:158)
+	at org.eclipse.ui.internal.Perspective.createReferences(Perspective.java:1249)
+	at org.eclipse.ui.internal.Perspective.restoreState(Perspective.java:1219)
+	at org.eclipse.ui.internal.WorkbenchPage$17.runWithException(WorkbenchPage.java:3297)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1600)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2609)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SUBENTRY 3 org.eclipse.ui 4 0 2013-08-21 21:38:27.865
+!MESSAGE Could not create view: org.eclipse.wst.common.snippets.internal.ui.SnippetsView
+!SUBENTRY 2 org.eclipse.ui 4 4 2013-08-21 21:38:27.865
+!MESSAGE Could not create view: com.genuitec.eclipse.ui.HTMLView
+!STACK 1
+org.eclipse.ui.PartInitException: Could not create view: com.genuitec.eclipse.ui.HTMLView
+	at org.eclipse.ui.internal.ViewFactory.createView(ViewFactory.java:158)
+	at org.eclipse.ui.internal.Perspective.createReferences(Perspective.java:1249)
+	at org.eclipse.ui.internal.Perspective.restoreState(Perspective.java:1219)
+	at org.eclipse.ui.internal.WorkbenchPage$17.runWithException(WorkbenchPage.java:3297)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1600)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2609)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SUBENTRY 3 org.eclipse.ui 4 0 2013-08-21 21:38:27.866
+!MESSAGE Could not create view: com.genuitec.eclipse.ui.HTMLView
+!SUBENTRY 2 org.eclipse.ui 4 4 2013-08-21 21:38:27.866
+!MESSAGE Could not create view: com.genuitec.eclipse.ast.deploy.core.serverview
+!STACK 1
+org.eclipse.ui.PartInitException: Could not create view: com.genuitec.eclipse.ast.deploy.core.serverview
+	at org.eclipse.ui.internal.ViewFactory.createView(ViewFactory.java:158)
+	at org.eclipse.ui.internal.Perspective.createReferences(Perspective.java:1249)
+	at org.eclipse.ui.internal.Perspective.restoreState(Perspective.java:1219)
+	at org.eclipse.ui.internal.WorkbenchPage$17.runWithException(WorkbenchPage.java:3297)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:803)
+	at org.eclipse.ui.internal.Workbench$33.runWithException(Workbench.java:1600)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3537)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3189)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2609)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SUBENTRY 3 org.eclipse.ui 4 0 2013-08-21 21:38:27.867
+!MESSAGE Could not create view: com.genuitec.eclipse.ast.deploy.core.serverview
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.867
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.867
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.867
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.867
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.868
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.868
+!MESSAGE OK
+!SUBENTRY 2 unknown 0 0 2013-08-21 21:38:27.868
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.ui 4 0 2013-08-21 21:38:27.868
+!MESSAGE Could not find view: uky.article.imageviewer.views.ImageView
+!SUBENTRY 2 org.eclipse.ui 4 0 2013-08-21 21:38:27.868
+!MESSAGE Could not find view: org.eclipse.wst.common.snippets.internal.ui.SnippetsView
+!SUBENTRY 2 org.eclipse.ui 4 0 2013-08-21 21:38:27.869
+!MESSAGE Could not find view: com.genuitec.eclipse.ui.HTMLView
+!SUBENTRY 2 org.eclipse.ui 4 0 2013-08-21 21:38:27.869
+!MESSAGE Could not find view: com.genuitec.eclipse.ast.deploy.core.serverview
+!SUBENTRY 1 unknown 0 0 2013-08-21 21:38:27.869
+!MESSAGE OK
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2013-08-21 21:38:29.808
+!MESSAGE Internal Error
+!STACK 1
+org.eclipse.jdt.internal.ui.JavaUIException: Problems reading information from XML 'OpenTypeHistory.xml'
+	at org.eclipse.jdt.internal.corext.util.History.createException(History.java:71)
+	at org.eclipse.jdt.internal.corext.util.History.load(History.java:260)
+	at org.eclipse.jdt.internal.corext.util.History.load(History.java:168)
+	at org.eclipse.jdt.internal.corext.util.OpenTypeHistory.<init>(OpenTypeHistory.java:199)
+	at org.eclipse.jdt.internal.corext.util.OpenTypeHistory.getInstance(OpenTypeHistory.java:185)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.initializeAfterLoad(JavaPlugin.java:395)
+	at org.eclipse.jdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:37)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+Caused by: org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; 文件提前结束。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1388)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1019)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:511)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:846)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:775)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:123)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:242)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:345)
+	at org.eclipse.jdt.internal.corext.util.History.load(History.java:258)
+	... 6 more
+!SUBENTRY 1 org.eclipse.jdt.ui 4 4 2013-08-21 21:38:29.808
+!MESSAGE Problems reading information from XML 'OpenTypeHistory.xml'
+!STACK 0
+org.xml.sax.SAXParseException; lineNumber: 1; columnNumber: 1; 文件提前结束。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1388)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1019)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:511)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:846)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:775)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:123)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:242)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:345)
+	at org.eclipse.jdt.internal.corext.util.History.load(History.java:258)
+	at org.eclipse.jdt.internal.corext.util.History.load(History.java:168)
+	at org.eclipse.jdt.internal.corext.util.OpenTypeHistory.<init>(OpenTypeHistory.java:199)
+	at org.eclipse.jdt.internal.corext.util.OpenTypeHistory.getInstance(OpenTypeHistory.java:185)
+	at org.eclipse.jdt.internal.ui.JavaPlugin.initializeAfterLoad(JavaPlugin.java:395)
+	at org.eclipse.jdt.internal.ui.InitializeAfterLoadJob$RealJob.run(InitializeAfterLoadJob.java:37)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.ui 4 0 2013-08-21 21:44:41.666
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 6
+	at org.eclipse.ui.dialogs.FilteredList.getSelection(FilteredList.java:439)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.getSelectedElements(AbstractElementListSelectionDialog.java:260)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.updateOkState(AbstractElementListSelectionDialog.java:490)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.handleElementsChanged(AbstractElementListSelectionDialog.java:194)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.setListElements(AbstractElementListSelectionDialog.java:179)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.setPageData(MultiElementListSelectionDialog.java:291)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.turnPage(MultiElementListSelectionDialog.java:282)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.buttonPressed(MultiElementListSelectionDialog.java:204)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.handleDefaultSelected(MultiElementListSelectionDialog.java:219)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog$1.widgetDefaultSelected(AbstractElementListSelectionDialog.java:368)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:119)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1276)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3562)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3186)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.open(AbstractElementListSelectionDialog.java:440)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.open(MultiElementListSelectionDialog.java:111)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.doChooseImports(OrganizeImportsAction.java:357)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.access$0(OrganizeImportsAction.java:338)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction$1.chooseImports(OrganizeImportsAction.java:333)
+	at org.eclipse.jdt.internal.corext.codemanipulation.OrganizeImportsOperation.createTextEdit(OrganizeImportsOperation.java:453)
+	at org.eclipse.jdt.internal.corext.codemanipulation.OrganizeImportsOperation.run(OrganizeImportsOperation.java:398)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:106)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.window.ApplicationWindow$1.run(ApplicationWindow.java:759)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.window.ApplicationWindow.run(ApplicationWindow.java:756)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2649)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1346)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager$7.run(ProgressManager.java:1184)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:180)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:150)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4299)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1182)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.run(OrganizeImportsAction.java:291)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.run(OrganizeImportsAction.java:204)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:279)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.ui.commands.ActionHandler.execute(ActionHandler.java:185)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerWrapper.execute(LegacyHandlerWrapper.java:109)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommand(HandlerService.java:169)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.executeCommand(WorkbenchKeyboard.java:468)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.press(WorkbenchKeyboard.java:786)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.processKeyEvent(WorkbenchKeyboard.java:885)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.filterKeySequenceBindings(WorkbenchKeyboard.java:567)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.access$3(WorkbenchKeyboard.java:508)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard$KeyDownFilter.handleEvent(WorkbenchKeyboard.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1484)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1275)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1300)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1285)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1312)
+	at org.eclipse.swt.widgets.Widget.gtk_key_press_event(Widget.java:748)
+	at org.eclipse.swt.widgets.Control.gtk_key_press_event(Control.java:3050)
+	at org.eclipse.swt.widgets.Composite.gtk_key_press_event(Composite.java:741)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:1773)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:5116)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4377)
+	at org.eclipse.swt.internal.gtk.OS._gtk_main_do_event(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.gtk_main_do_event(OS.java:8317)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1193)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3184)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+
+!ENTRY org.eclipse.ui 4 0 2013-08-21 21:50:53.516
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 7
+	at org.eclipse.ui.dialogs.FilteredList.getSelection(FilteredList.java:439)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.getSelectedElements(AbstractElementListSelectionDialog.java:260)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.updateOkState(AbstractElementListSelectionDialog.java:490)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.handleElementsChanged(AbstractElementListSelectionDialog.java:194)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.setListElements(AbstractElementListSelectionDialog.java:179)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.setPageData(MultiElementListSelectionDialog.java:291)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.turnPage(MultiElementListSelectionDialog.java:282)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.buttonPressed(MultiElementListSelectionDialog.java:204)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.handleDefaultSelected(MultiElementListSelectionDialog.java:219)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog$1.widgetDefaultSelected(AbstractElementListSelectionDialog.java:368)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:119)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1276)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3562)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3186)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:825)
+	at org.eclipse.jface.window.Window.open(Window.java:801)
+	at org.eclipse.ui.dialogs.AbstractElementListSelectionDialog.open(AbstractElementListSelectionDialog.java:440)
+	at org.eclipse.jdt.internal.ui.dialogs.MultiElementListSelectionDialog.open(MultiElementListSelectionDialog.java:111)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.doChooseImports(OrganizeImportsAction.java:357)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.access$0(OrganizeImportsAction.java:338)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction$1.chooseImports(OrganizeImportsAction.java:333)
+	at org.eclipse.jdt.internal.corext.codemanipulation.OrganizeImportsOperation.createTextEdit(OrganizeImportsOperation.java:453)
+	at org.eclipse.jdt.internal.corext.codemanipulation.OrganizeImportsOperation.run(OrganizeImportsOperation.java:398)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:39)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5204)
+	at org.eclipse.jdt.internal.ui.actions.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:106)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.window.ApplicationWindow$1.run(ApplicationWindow.java:759)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.window.ApplicationWindow.run(ApplicationWindow.java:756)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2649)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1346)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager$7.run(ProgressManager.java:1184)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:180)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:150)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4299)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1182)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.run(OrganizeImportsAction.java:291)
+	at org.eclipse.jdt.ui.actions.OrganizeImportsAction.run(OrganizeImportsAction.java:204)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:279)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:251)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.ui.commands.ActionHandler.execute(ActionHandler.java:185)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerWrapper.execute(LegacyHandlerWrapper.java:109)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommand(HandlerService.java:169)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.executeCommand(WorkbenchKeyboard.java:468)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.press(WorkbenchKeyboard.java:786)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.processKeyEvent(WorkbenchKeyboard.java:885)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.filterKeySequenceBindings(WorkbenchKeyboard.java:567)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.access$3(WorkbenchKeyboard.java:508)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard$KeyDownFilter.handleEvent(WorkbenchKeyboard.java:123)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1484)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1275)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1300)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1285)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1312)
+	at org.eclipse.swt.widgets.Widget.gtk_key_press_event(Widget.java:748)
+	at org.eclipse.swt.widgets.Control.gtk_key_press_event(Control.java:3050)
+	at org.eclipse.swt.widgets.Composite.gtk_key_press_event(Composite.java:741)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:1773)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:5116)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4377)
+	at org.eclipse.swt.internal.gtk.OS._gtk_main_do_event(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.gtk_main_do_event(OS.java:8317)
+	at org.eclipse.swt.widgets.Display.eventProc(Display.java:1193)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3184)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+
+!ENTRY org.eclipse.core.resources 4 273 2013-08-21 22:37:55.502
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-08-21 22:37:55.502
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-08-22 14:15:24.622 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.jdt.core 4 4 2013-08-22 14:28:11.364
+!MESSAGE Exception while reading /一些测试和临时/.classpath
+!STACK 0
+java.io.IOException: Bad format
+	at org.eclipse.jdt.internal.core.JavaProject.decodeClasspath(JavaProject.java:915)
+	at org.eclipse.jdt.internal.core.JavaProject.readFileEntriesWithException(JavaProject.java:2496)
+	at org.eclipse.jdt.internal.core.JavaProject.readFileEntries(JavaProject.java:2506)
+	at org.eclipse.jdt.internal.core.JavaProject.writeFileEntries(JavaProject.java:2894)
+	at org.eclipse.jdt.internal.core.JavaModelManager$PerProjectInfo.writeAndCacheClasspath(JavaModelManager.java:1341)
+	at org.eclipse.jdt.internal.core.JavaModelManager$PerProjectInfo.writeAndCacheClasspath(JavaModelManager.java:1353)
+	at org.eclipse.jdt.internal.core.SetClasspathOperation.executeOperation(SetClasspathOperation.java:77)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:728)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2344)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:793)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3095)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3057)
+	at org.eclipse.jdt.internal.core.JavaProject.setRawClasspath(JavaProject.java:3069)
+	at org.eclipse.jdt.internal.corext.buildpath.ClasspathModifier.commitClassPath(ClasspathModifier.java:1045)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.AddFolderToBuildpathAction.addToClasspath(AddFolderToBuildpathAction.java:250)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.AddFolderToBuildpathAction.access$0(AddFolderToBuildpathAction.java:200)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.AddFolderToBuildpathAction$1.run(AddFolderToBuildpathAction.java:179)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:507)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:275)
+	at org.eclipse.ui.internal.progress.ProgressManager.run(ProgressManager.java:1162)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.AddFolderToBuildpathAction.run(AddFolderToBuildpathAction.java:186)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1276)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3562)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3186)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:491)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+
+!ENTRY org.eclipse.core.resources 4 567 2013-08-22 14:28:11.659
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:76)
+	at org.eclipse.core.internal.localstore.HistoryStore2.copyHistory(HistoryStore2.java:249)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.copy(FileSystemResourceManager.java:308)
+	at org.eclipse.core.internal.resources.Resource.copy(Resource.java:566)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.copyResource(AbstractImageBuilder.java:380)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder$3.visit(BatchImageBuilder.java:222)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:95)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.copyExtraResourcesBack(BatchImageBuilder.java:191)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:119)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:46)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:184)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 567 2013-08-22 14:31:57.908
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:76)
+	at org.eclipse.core.internal.localstore.HistoryStore2.copyHistory(HistoryStore2.java:249)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.copy(FileSystemResourceManager.java:308)
+	at org.eclipse.core.internal.resources.Resource.copy(Resource.java:566)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.copyResource(AbstractImageBuilder.java:380)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder$3.visit(BatchImageBuilder.java:222)
+	at org.eclipse.core.internal.resources.Resource$1.visitElement(Resource.java:85)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:82)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.doIteration(ElementTreeIterator.java:86)
+	at org.eclipse.core.internal.watson.ElementTreeIterator.iterate(ElementTreeIterator.java:127)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:95)
+	at org.eclipse.core.internal.resources.Resource.accept(Resource.java:52)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.copyExtraResourcesBack(BatchImageBuilder.java:191)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.cleanOutputFolders(BatchImageBuilder.java:119)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:46)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:184)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:728)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 273 2013-08-22 14:37:17.087
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-08-22 14:37:17.088
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-08-29 18:16:39.607 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-08-29 18:17:29.987
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-08-29 18:17:29.988
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-10-31 22:11:43.085 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-10-31 22:20:12.196
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-10-31 22:20:12.197
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-10-31 23:25:46.203 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-10-31 23:29:14.079
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-10-31 23:29:14.080
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-11-01 09:06:28.326 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-11-01 12:45:29.135
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-11-01 12:45:29.136
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-11-01 17:16:40.793 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-11-01 17:16:59.550
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-11-01 17:16:59.553
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-11-08 15:28:42.130 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-11-08 15:40:23.219
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-11-08 15:40:23.220
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-11-12 09:17:49.037 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-11-12 09:59:06.194
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-11-12 09:59:06.195
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-11-12 09:59:07.897 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.jdt.debug 4 125 2013-11-12 13:31:13.334
+!MESSAGE Internal error logged from JDI Debug: 
+!STACK 0
+org.eclipse.jdi.TimeoutException: Timeout occurred while waiting for packet 834.
+	at org.eclipse.jdi.internal.connect.PacketReceiveManager.getReply(PacketReceiveManager.java:186)
+	at org.eclipse.jdi.internal.connect.PacketReceiveManager.getReply(PacketReceiveManager.java:197)
+	at org.eclipse.jdi.internal.MirrorImpl.requestVM(MirrorImpl.java:191)
+	at org.eclipse.jdi.internal.MirrorImpl.requestVM(MirrorImpl.java:226)
+	at org.eclipse.jdi.internal.request.EventRequestImpl.disable(EventRequestImpl.java:217)
+	at org.eclipse.jdi.internal.request.EventRequestManagerImpl.deleteEventRequest(EventRequestManagerImpl.java:367)
+	at org.eclipse.jdt.internal.debug.core.breakpoints.JavaBreakpoint.removeRequests(JavaBreakpoint.java:769)
+	at org.eclipse.jdt.internal.debug.core.breakpoints.JavaBreakpoint.removeFromTarget(JavaBreakpoint.java:716)
+	at org.eclipse.jdt.internal.debug.core.breakpoints.JavaLineBreakpoint.removeFromTarget(JavaLineBreakpoint.java:193)
+	at org.eclipse.jdt.internal.debug.core.model.JDIDebugTarget.breakpointRemoved(JDIDebugTarget.java:1323)
+	at org.eclipse.debug.internal.core.BreakpointManager$BreakpointNotifier.run(BreakpointManager.java:995)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.debug.internal.core.BreakpointManager$BreakpointNotifier.notify(BreakpointManager.java:1018)
+	at org.eclipse.debug.internal.core.BreakpointManager.fireUpdate(BreakpointManager.java:932)
+	at org.eclipse.debug.internal.core.BreakpointManager.removeBreakpoints(BreakpointManager.java:503)
+	at org.eclipse.debug.ui.DebugUITools.deleteBreakpoints(DebugUITools.java:295)
+	at org.eclipse.debug.internal.ui.actions.breakpoints.RemoveAllBreakpointsAction$1.run(RemoveAllBreakpointsAction.java:125)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.resources 4 273 2013-11-12 16:13:44.446
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-11-12 16:13:44.447
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-11-27 10:56:20.005 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-11-27 10:57:09.079
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-11-27 10:57:09.080
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-12-04 13:21:07.417 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-12-04 15:02:27.164
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-12-04 15:02:27.165
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-12-12 08:49:14.240 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/lee/windows_program/java工程 -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-12-12 08:53:02.218
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-12-12 08:53:02.218
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2013-12-26 23:53:16.547 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.8.0-ea
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.core.resources 4 273 2013-12-26 23:55:16.865
+!MESSAGE Problems cleaning up history store.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException(null)[567]: java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2013-12-26 23:55:16.866
+!MESSAGE Could not read metadata for '/home/lee/windows_program/java工程/.metadata/.plugins/org.eclipse.core.resources/.projects/一些测试和临时/.indexes/e4/c9/b9/5d/history.index'.
+!STACK 0
+java.io.EOFException
+	at java.io.DataInputStream.readByte(DataInputStream.java:267)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:298)
+	at org.eclipse.core.internal.localstore.Bucket.load(Bucket.java:274)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:98)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.internalAccept(BucketTree.java:109)
+	at org.eclipse.core.internal.localstore.BucketTree.accept(BucketTree.java:73)
+	at org.eclipse.core.internal.localstore.HistoryStore2.clean(HistoryStore2.java:157)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1156)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2375)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$5.run(IDEWorkbenchAdvisor.java:508)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)

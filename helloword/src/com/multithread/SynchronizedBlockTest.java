@@ -39,13 +39,12 @@ class BlockTest
 					// TODO 自动生成的 catch 块
 					e.printStackTrace();
 				}
-
 				System.out.println("thread execute " + i);
 			}
 		}
 	}
 
-	public void execute1()// 这里注意要是非Synchronized，在某个线程访问Synchronized的execute()的时候，这个方法就不会被同时上锁
+	public synchronized void execute1()// 这里注意要是非Synchronized，在某个线程访问Synchronized的execute()的时候，这个方法就不会被同时上锁
 	{
 		//synchronized (this)
 		{

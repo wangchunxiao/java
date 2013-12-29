@@ -12,7 +12,7 @@ public class ThreadForDecrease extends Thread
 	public void run()
 	{
 		// TODO 自动生成的方法存根
-		for(int i=0;i<10;i++)
+		for(int i=0;i<3;i++)
 		{
 			sample.decrease();
 		}

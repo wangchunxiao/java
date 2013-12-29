@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“helloword/src/com/hello”重命名为“collection”" description="重命名资源“hello”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/hello" name="collection" stamp="1354200265430" updateReferences="true"/>
+</session>

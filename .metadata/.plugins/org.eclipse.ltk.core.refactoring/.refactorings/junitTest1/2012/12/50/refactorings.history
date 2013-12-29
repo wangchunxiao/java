@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“junitTest1/src/JunitTest1.java”重命名为“JunitJunit3.java”" description="重命名资源“JunitTest1.java”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/JunitTest1.java" name="JunitJunit3.java" stamp="1355295835986" updateReferences="true"/>
+</session>

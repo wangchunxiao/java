@@ -1,0 +1,11 @@
+package net163;
+
+import java.io.FileInputStream;
+
+public class Test
+{
+	public static void main(String[] args)
+	{
+		FileInputStream fis=new FileInputStream(new File("11.txt"));
+	}
+}

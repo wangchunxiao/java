@@ -1,0 +1,36 @@
+package com.hello;
+
+import java.util.HashSet;
+
+public class HashSetTest
+{
+	public static void main(String[] args)
+	{
+		HashSet set=new HashSet();
+	}
+}
+
+class People
+{
+	@Override
+	String name;
+	public String toString()
+	{
+		// TODO 自动生成的方法存根
+		return super.toString();
+	}
+	@Override
+	public int hashCode()
+	{
+		// TODO 自动生成的方法存根
+		
+		//return super.hashCode();
+	}
+	@Override
+	public boolean equals(Object obj)
+	{
+		// TODO 自动生成的方法存根
+		if()
+		//return super.equals(obj);
+	}
+}
