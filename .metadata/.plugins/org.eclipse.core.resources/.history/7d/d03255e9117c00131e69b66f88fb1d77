@@ -1,0 +1,43 @@
+package com.proxy.dynamicproxy;
+
+/*这是我14年，重新测试的方法
+ *1.我异想天开的认为可以这样，invoke(proxy,args)，这样将死循环
+ *2. 
+ * */
+
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
+
+public class DyTest implements InvocationHandler
+{
+	public Object realobj;
+	public DyTest(Object obj)
+	{
+		this.realobj = obj;
+	}
+	
+	public static Object factory(Object obj)
+	{
+		Class classtype= obj.getClass();
+		return Proxy.newProxyInstance(classtype.getClassLoader(),classtype.getInterfaces(),new DyTest(obj));
+	}
+	
+	@Override
+	public Object invoke(Object proxy, Method method, Object[] args)
+			throws Throwable
+	{
+		System.out.println("proxy worked begin!");
+		method.invoke(realobj,args);
+		System.out.println("proxy worked end!");
+		return null;
+	}
+	
+	
+	public static void main(String[] args)
+	{
+		Object t = factory(new String("ddd"));
+		t.toString();
+	}
+
+}

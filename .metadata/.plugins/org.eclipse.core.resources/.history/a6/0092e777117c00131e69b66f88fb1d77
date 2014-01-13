@@ -1,0 +1,37 @@
+package com.proxy.dynamicproxy;
+
+/*
+ * 这是我14年，重新测试的方法
+ * */
+
+import java.lang.reflect.InvocationHandler;
+import java.lang.reflect.Method;
+import java.lang.reflect.Proxy;
+
+public class DyTest implements InvocationHandler
+{
+	Object realobj;
+	public static Object factory(Object obj)
+	{
+		String a ="dasdfaf";
+		return Proxy.newProxyInstance(a.getClass().getClassLoader(),a.getClass().getInterfaces(),new DyTest());
+	}
+	
+	@Override
+	public Object invoke(Object proxy, Method method, Object[] args)
+			throws Throwable
+	{
+		System.out.println("proxy worked begin!");
+		method.invoke(proxy,args);
+		System.out.println("proxy worked end!");
+		return null;
+	}
+	
+	
+	public static void main(String[] args)
+	{
+		Object t = factory();
+		t.hashCode();
+	}
+
+}

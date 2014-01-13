@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/software/jdk_eclipse/eclipse-SDK-4.2-win32-x86_64/eclipse
 org.eclipse.jdt.core.classpathVariable.JRE_LIB=E\:/java/jdk/jre/lib/rt.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=E\:/java/jdk/src.zip
@@ -23,9 +24,6 @@ org.eclipse.jdt.core.compiler.compliance=1.7
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 org.eclipse.jdt.core.compiler.source=1.7
-org.eclipse.jdt.core.compiler.taskCaseSensitive=enabled
-org.eclipse.jdt.core.compiler.taskPriorities=NORMAL,HIGH,NORMAL
-org.eclipse.jdt.core.compiler.taskTags=TODO,FIXME,XXX
 org.eclipse.jdt.core.formatter.brace_position_for_annotation_type_declaration=next_line
 org.eclipse.jdt.core.formatter.brace_position_for_anonymous_type_declaration=next_line
 org.eclipse.jdt.core.formatter.brace_position_for_block=next_line
